@@ -1,0 +1,19 @@
+body {
+     width: 1668px;
+     height: 758px;
+}
+
+div {
+     text-align: center;
+}
+
+h1 {
+     font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+     border: 2px solid red;
+     border-radius: 5px;
+     font-size: 30px;
+     font-family: 'Times New Roman', Times, serif;
+}
